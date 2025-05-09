@@ -3,10 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Academic Projects</b>
-  - [Capstone Project](https://github.com/Jonahfer/Jonahfer)
+  - [Capstone Project](https://github.com/Jonahfer/OSUCapstoneProject)
+ 
 - <b>Other Projects</b>
-  - Other Project
-  - Traveler Studios Projects
+  - [Traveler Studios Projects](https://github.com/Jonahfer/TravelerStudiosProjects)
 
 <h2> 🤳 Connect with me:</h2>
 
